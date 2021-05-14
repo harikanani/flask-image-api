@@ -1,0 +1,6 @@
+dnspython==2.1.0
+Flask
+Flask-Cors
+gunicorn==20.1.0
+requests
+urllib3
